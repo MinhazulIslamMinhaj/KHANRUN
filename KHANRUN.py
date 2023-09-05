@@ -1,12 +1,12 @@
 W = '\033[97;1m'
-R = '\033[97;1m'
+R = '\033[97;1m' 
 G = '\033[97;1m'
 Y = '\033[97;1m'
 B = '\033[97;1m'
 P = '\033[97;1m'
 C = '\033[97;1m'
 N = '\x1b[0m'
- import os 
+    import os
  try: 
          import requests 
  except ImportError: 
