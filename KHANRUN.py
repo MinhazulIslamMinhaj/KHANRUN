@@ -33,35 +33,29 @@ from concurrent.futures import ThreadPoolExecutor
   
 def logo(): 
          print (""" 
- ##    ## ##     ##    ###    ##    ## 
- ##   ##  ##     ##   ## ##   ###   ## 
- ##  ##   ##     ##  ##   ##  ####  ## 
- #####    ######### ##     ## ## ## ## 
- ##  ##   ##     ## ######### ##  #### 
- ##   ##  ##     ## ##     ## ##   ### 
- ##    ## ##     ## ##     ## ##    ## 
+  __  __ ___   _  ___  _   _   _  _ 
+    |  \/  | _ \ | |/ / || | /_\ | \| |
+    | |\/| |   / | ' <| __ |/ _ \| .` |
+    |_|  |_|_|_\ |_|\_\_||_/_/ \_\_|\_|                               
   ───────────────────────────────────────────────────────× 
    ───────────────────────────────────────────────────────× 
- \t\033[1;97m[\x1b[1;97m\x1b[1;41m Mr Khan Qureshi\x1b[0m\x1b[1;97m] 
+ \t\033[1;97m[\x1b[1;97m\x1b[1;41m Mr Khan\x1b[0m\x1b[1;97m] 
  \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version :5\x1b[0m\x1b[1;97m] \033[1;37m 
   ───────────────────────────────────────────────────────× 
   """) 
 def logo2(): 
          print (""" 
- ##    ## ##     ##    ###    ##    ## 
- ##   ##  ##     ##   ## ##   ###   ## 
- ##  ##   ##     ##  ##   ##  ####  ## 
- #####    ######### ##     ## ## ## ## 
- ##  ##   ##     ## ######### ##  #### 
- ##   ##  ##     ## ##     ## ##   ### 
- ##    ## ##     ## ##     ## ##    ## 
+   __  __ ___   _  ___  _   _   _  _ 
+     |  \/  | _ \ | |/ / || | /_\ | \| |
+     | |\/| |   / | ' <| __ |/ _ \| .` |
+     |_|  |_|_|_\ |_|\_\_||_/_/ \_\_|\_|                            
   ───────────────────────────────────────────────────────× 
- \t\033[1;97m[\x1b[1;97m\x1b[1;41m Mr Khan Qureshi\x1b[0m\x1b[1;97m] 
+ \t\033[1;97m[\x1b[1;97m\x1b[1;41m Mr Khan\x1b[0m\x1b[1;97m] 
  \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version :6\x1b[0m\x1b[1;97m] \033[1;37m  
   ───────────────────────────────────────────────────────× 
- \t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : Mr-Qureshi \x1b[0m\x1b[1;97m] 
- \t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : www.gitclone//github.com/Mr-Qureshi-xd \x1b[0m\x1b[1;97m] 
- \t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : www.facebook./MrQureshi-xd \x1b[0m\x1b[1;97m] 
+ \t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   :  MrKhan \x1b[0m\x1b[1;97m] 
+ \t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : www.gitclone//github.com/MrKhan \x1b[0m\x1b[1;97m] 
+ \t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : www.facebook./MrKhan \x1b[0m\x1b[1;97m] 
  ───────────────────────────────────────────────────────×  
   """) 
   
@@ -75,7 +69,7 @@ os.system('termux-setup-storage')
   
 def helpnote(): 
          print("%s [=>] FOLLOW ME ON  FB TU KNOW ABOUT UPDATES  :)"%(G)) 
-         subprocess.check_output(["am", "start", "https://github.com/Mr-Qureshi-xd/run.txt/blob/main/run.txt"]) 
+         subprocess.check_output(["am", "start", "https://github.com/MinhazulIslamMinhaj/KHANRUN.git"]) 
          exit(" [=>] FACEBOOK :  https://www.facebook.com/profile.php?id=100088331583368") 
   
   
@@ -84,11 +78,11 @@ def notice():
   
   
          runtxt("\n\033[0;97m  Free 2009 cloning Tool For Free Aproval Join Group ") 
-         os.system("xdg-open https://www.facebook.com/groups/447671328737321/permalink/2365540383617063/?app=fbl") 
-         runtxt("\033[0;97m Key Approval ke Lai Group Jion Krein >> %s%s"%(G,basesplit)) 
+         os.system("xdg-open https://www.facebook.com/profile.php?id=100092701149489") 
+         runtxt("\033[0;97m Key Approval ke Lai Group Jion Krein >> %s%s"%(MrKhan)) 
          runtxt("\033[0;97m Key group admin ke post pe coment krein") 
-         os.system("xdg-open https://www.facebook.com/groups/447671328737321/permalink/2365540383617063/?app=fbl") 
-         subprocess.check_output(["am", "start", "https://www.facebook.com/groups/447671328737321/permalink/2365540383617063/?app=fbl"]) 
+         os.system("xdg-open https://www.facebook.com/profile.php?id=100088331583368") 
+         subprocess.check_output(["am", "start", "https://www.facebook.com/profile.php?id=100092701149489"]) 
   
   
   
@@ -109,8 +103,7 @@ class Main:
                  self.cp = [] 
                  self.loop = 0 
                  try: 
-                         #yahan pr v apna github link dalna aproval wala 
-                         plr = requests.get('https://github.com/Mr-Qureshi-xd/run.txt/blob/main/run.txt').text 
+                         plr = requests.get('https://github.com/MinhazulIslamMinhaj/KHANRUN.git').text 
                          if basesplit in plr: 
                                  key = basesplit 
                                  stat = ("\033[0;97mPREMIUM") 
@@ -127,9 +120,7 @@ class Main:
                          print("\n%s [!] NO INTERNET CONNECTION..\n"%(R)) 
                          exit() 
                  os.system("clear") 
-                 #yahan logo lagana apna 
-                 print ("""                  
-
+                 print (""" 
  ##    ## ##     ##    ###    ##    ## 
  ##   ##  ##     ##   ## ##   ###   ## 
  ##  ##   ##     ##  ##   ##  ####  ## 
@@ -138,12 +129,12 @@ class Main:
  ##   ##  ##     ## ##     ## ##   ### 
  ##    ## ##     ## ##     ## ##    ## 
   ───────────────────────────────────────────────────────× 
- \t\033[1;97m[\x1b[1;97m\x1b[1;41m Mr Khan Qureshi\x1b[0m\x1b[1;97m] 
+ \t\033[1;97m[\x1b[1;97m\x1b[1;41m Mr Khan \x1b[0m\x1b[1;97m] 
  \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version : 6\x1b[0m\x1b[1;97m] \033[1;37m  
   ───────────────────────────────────────────────────────× 
- \t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : Mr-Qureshi \x1b[0m\x1b[1;97m] 
- \t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : www.gitclone//github.com/Mr-Qureshi-xd \x1b[0m\x1b[1;97m] 
- \t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : www.facebook./MrQureshi-xd \x1b[0m\x1b[1;97m] 
+ \t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : Mr-KHAN \x1b[0m\x1b[1;97m] 
+ \t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : https://github.com/MinhazulIslamMinhaj/KHANRUN.git] 
+ \t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : https://www.facebook.com/profile.php?id=100088331583368] 
  ───────────────────────────────────────────────────────×  
      """) 
                  print("%s [%s•%s] %sTOOL NAME : %s2009 Cloning Tool"%(G,R,G,B,G)) 
@@ -195,7 +186,7 @@ def fbtua(self):
                                  print("\033[0;92m[=×>]\033[0;92m NOTE : BEFORE LOGIN CP IDZ ") 
                                  print("\033[0;92m[=×>]\033[0;92m NOTE : CLEAR YOUR FACEBOOK /BROWSER DATA " ) 
                                  print("\033[0;92m[=×>]\033[0;92m NOTE : ENJOY FREE TOOL") 
-                                 print("\033[0;92m[=×>]\033[0;92m NOTE : HAR 10 MIN BAD AIRPLAN MOD/FLIGHT MOD ON KRO ") 
+                                 print("\033[0;92m[=×>]\033[0;92m NOTE : BRO AIRPLAN MOD/FLIGHT MOD ON OFF ") 
                                  print("\033[0;97m───────────────────────────────────────────────────────× ") 
                                  for user in self.id: 
                                          coeg.submit(self.api, user, listpass.split(",")) 
