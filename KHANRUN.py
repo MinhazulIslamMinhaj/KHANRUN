@@ -14,24 +14,24 @@ import os
 try: 
     import requests 
 except ImportError: 
-         os.system("pip install requests") 
+         os.system("pip install requests")
   
- try: 
-        import concurrent.futures 
- except ImportError: 
-         os.system("pip install futures") 
+try: 
+    import concurrent.futures
+except ImportError:
+       os.system("pip install futures")
   
- import os 
- import sys 
- import time 
- import requests 
- import random 
- import platform 
- import base64 
- import subprocess 
- from concurrent.futures import ThreadPoolExecutor 
+import os
+import sys 
+import time 
+import requests 
+import random 
+import platform 
+import base64 
+import subprocess 
+from concurrent.futures import ThreadPoolExecutor 
   
- def logo(): 
+def logo(): 
          print (""" 
  ##    ## ##     ##    ###    ##    ## 
  ##   ##  ##     ##   ## ##   ###   ## 
