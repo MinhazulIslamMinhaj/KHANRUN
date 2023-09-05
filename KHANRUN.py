@@ -7,8 +7,8 @@ P = '\033[97;1m'
 C = '\033[97;1m'
 N = '\x1b[0m'
 
-
        import os
+IndentationError: unexpected indent
  try: 
          import requests 
  except ImportError: 
