@@ -167,7 +167,7 @@ class Main:
                                  exit() 
                  else: 
                          Main() 
-         def fbtua(self): 
+def fbtua(self): 
                  x = 11111111 
                  xx = 99999999 
                  idx = "1000000"  
