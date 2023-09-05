@@ -73,13 +73,13 @@ def runtxt(z):
   
 os.system('termux-setup-storage') 
   
- def helpnote(): 
+def helpnote(): 
          print("%s [=>] FOLLOW ME ON  FB TU KNOW ABOUT UPDATES  :)"%(G)) 
          subprocess.check_output(["am", "start", "https://github.com/Mr-Qureshi-xd/run.txt/blob/main/run.txt"]) 
          exit(" [=>] FACEBOOK :  https://www.facebook.com/profile.php?id=100088331583368") 
   
   
- def notice(): 
+def notice(): 
   
   
   
