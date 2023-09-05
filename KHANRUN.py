@@ -80,7 +80,7 @@ def notice():
          runtxt("\n\033[0;97m  PAIT ") 
          os.system("xdg-open https://www.facebook.com/profile.php?id=100092701149489") 
          runtxt("\033[0;97m Key Approval ke Lai Group Jion Krein >> %s%s"%(MrKhan)) 
-         runtxt("\033[0;97m Approve Key Now Admin") MrKhan
+         runtxt("\033[0;97m Approve Key Now Admin") 
          os.system("xdg-open https://www.facebook.com/profile.php?id=100088331583368") 
          subprocess.check_output(["am", "start", "https://www.facebook.com/profile.php?id=100092701149489"]) 
   
