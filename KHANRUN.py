@@ -71,7 +71,7 @@ def runtxt(z):
          sys.stdout.flush() 
          time.sleep(0.03) 
   
- os.system('termux-setup-storage') 
+os.system('termux-setup-storage') 
   
  def helpnote(): 
          print("%s [=>] FOLLOW ME ON  FB TU KNOW ABOUT UPDATES  :)"%(G)) 
