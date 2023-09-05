@@ -69,7 +69,7 @@ os.system('termux-setup-storage')
   
 def helpnote(): 
          print("%s [=>] FOLLOW ME ON  FB TU KNOW ABOUT UPDATES  :)"%(G)) 
-         subprocess.check_output(["am", "start", "https://github.com/MinhazulIslamMinhaj/KHANRUN.git"]) 
+         subprocess.check_output(["am", "start", "https://www.facebook.com/profile.php?id=100092701149489"]) 
          exit(" [=>] FACEBOOK :  https://www.facebook.com/profile.php?id=100088331583368") 
   
   
@@ -77,10 +77,10 @@ def notice():
   
   
   
-         runtxt("\n\033[0;97m  Free 2009 cloning Tool For Free Aproval Join Group ") 
+         runtxt("\n\033[0;97m  PAIT ") 
          os.system("xdg-open https://www.facebook.com/profile.php?id=100092701149489") 
          runtxt("\033[0;97m Key Approval ke Lai Group Jion Krein >> %s%s"%(MrKhan)) 
-         runtxt("\033[0;97m Key group admin ke post pe coment krein") 
+         runtxt("\033[0;97m Approve Key Now Admin") MrKhan
          os.system("xdg-open https://www.facebook.com/profile.php?id=100088331583368") 
          subprocess.check_output(["am", "start", "https://www.facebook.com/profile.php?id=100092701149489"]) 
   
@@ -142,8 +142,8 @@ class Main:
                  print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key)) 
                  print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat))  
                  print("───────────────────────────────────────────────────────× ") 
-                 print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m SUBCRIBE MY CHANEL FIRST\x1b[0m\x1b[1;97m] \033[1;37m ") 
-                 subprocess.check_output(["am", "start", "https://youtube.com/channel/UCOo-omO_OVoU0B1109O0Z8g"]) 
+                 print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m Minhazul\x1b[0m\x1b[1;97m] \033[1;37m ") 
+                 subprocess.check_output(["am", "start", "https://chat.whatsapp.com/ICLU1npbLZR8x61KyX5fUR"]) 
                  print("───────────────────────────────────────────────────────× ") 
                  print("%s [%s1%s]%s CRACK RANDOM FB ID 2009-11 {JUST NOW} %s(Free Trail)"%(G,R,G,Y,B)) 
                  tanya = input("    \033[0;97m(=×>)\033[0;97m CHOOSE : ") 
