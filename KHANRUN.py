@@ -202,7 +202,7 @@ def fbtua(self):
                          exit("\n\n    [=>] CRACK COMPLETE...") 
                  except Exception as e:exit(str(e)) 
   
-         def api(self, uid, pwx): 
+def api(self, uid, pwx): 
   
                  ua = random.choice([ 
                          'Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z007;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]',  
@@ -367,6 +367,7 @@ def fbtua(self):
                          pw = pw.lower() 
                          ses = requests.Session() 
                          headers = {
+U+00A0                         
     'authority': 'mbasic.facebook.com',
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
     'accept-language': 'en-US,en;q=0.9',
