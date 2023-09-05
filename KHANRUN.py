@@ -7,15 +7,15 @@ P = '\033[97;1m'
 C = '\033[97;1m'
 N = '\x1b[0m'
 
-       import os
-IndentationError
+        import os 
+ IndentationError 
  try: 
-         import requests 
+        import requests 
  except ImportError: 
          os.system("pip install requests") 
   
  try: 
-         import concurrent.futures 
+        import concurrent.futures 
  except ImportError: 
          os.system("pip install futures") 
   
