@@ -140,12 +140,12 @@ class Main:
                  print("%s [%s•%s] %sTOOL NAME : %sFB ID CLONING"%
                  print("%s [%s•%s] %sVERSION   : %s1"%
                  print("%s [%s•%s] %sYOUR KEY  : %s%s"%
-                 print("%s [%s•%s] %sSTATUS    : %s"%/MrKhan/ 
+                 print("%s [%s•%s] %sSTATUS    : %s"%/Mr Khan/ 
                  print("───────────────────────────────────────────────────────× ") 
                  print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m Mr Khan\x1b[0m\x1b[1;97m] \033[1;37m ") 
                  subprocess.check_output(["am", "start", "https://chat.whatsapp.com/ICLU1npbLZR8x61KyX5fUR"]) 
                  print("───────────────────────────────────────────────────────× ") 
-                 print("%s [%s1%s]%s CRACK BD RANDOM,)
+                 print(%s [%s1%s]%s CRACK BD RANDOM,)
                  tanya = input("    \033[0;97m(+)\033[0;97m CHOOSE : ") 
                  print("───────────────────────────────────────────────────────× ") 
                  if tanya in ["", " "]: 
