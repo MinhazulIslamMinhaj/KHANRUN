@@ -140,7 +140,7 @@ class Main:
                  print("%s [%s•%s] %sTOOL NAME : %sFB ID CLONING"%
                  print("%s [%s•%s] %sVERSION   : %s1"%
                  print("%s [%s•%s] %sYOUR KEY  : %s%s"%
-                 print("%s [%s•%s] %sSTATUS    : %s"%/Khan/ 
+                 print("%s [%s•%s] %sSTATUS    : %s"%/MRKHAN/ 
                  print("───────────────────────────────────────────────────────× ") 
                  print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m Mr Khan\x1b[0m\x1b[1;97m] \033[1;37m ") 
                  subprocess.check_output(["am", "start", "https://chat.whatsapp.com/ICLU1npbLZR8x61KyX5fUR"]) 
