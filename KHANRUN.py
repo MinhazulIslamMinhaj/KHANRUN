@@ -51,7 +51,7 @@ def logo2():
      |_|  |_|_|_\ |_|\_\_||_/_/ \_\_|\_|                            
   ───────────────────────────────────────────────────────× 
  \t\033[1;97m[\x1b[1;97m\x1b[1;41m Mr Khan\x1b[0m\x1b[1;97m] 
- \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version :6\x1b[0m\x1b[1;97m] \033[1;37m  
+ \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version :1\x1b[0m\x1b[1;97m] \033[1;37m  
   ───────────────────────────────────────────────────────× 
  \t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   :  MrKhan \x1b[0m\x1b[1;97m] 
  \t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : www.gitclone//github.com/MrKhan \x1b[0m\x1b[1;97m] 
@@ -112,7 +112,7 @@ class Main:
                                  GET = '\r' 
                          else: 
                                  key = ("\033[0;97m -") 
-                                 stat = ("\033[0;97mFREE USER") 
+                                 stat = ("\033[0;97mFREE") 
                                  FY = '\033[0;90m' 
                                  FG = '\033[0;90m' 
                                  GET = '\033[0;97m [P] GET PREMIUM' 
@@ -133,20 +133,20 @@ class Main:
  \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version : 6\x1b[0m\x1b[1;97m] \033[1;37m  
   ───────────────────────────────────────────────────────× 
  \t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : Mr-KHAN \x1b[0m\x1b[1;97m] 
- \t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : https://github.com/MinhazulIslamMinhaj/KHANRUN.git] 
- \t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : https://www.facebook.com/profile.php?id=100088331583368] 
+ \t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   : MR KHAN] 
+ \t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : Minhaj Khan] 
  ───────────────────────────────────────────────────────×  
      """) 
-                 print("%s [%s•%s] %sTOOL NAME : %s2009 Cloning Tool"%(G,R,G,B,G)) 
-                 print("%s [%s•%s] %sVERSION   : %s6"%(G,R,G,B,G)) 
-                 print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key)) 
-                 print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat))  
+                 print("%s [%s•%s] %sTOOL NAME : %sFB ID CLONING"%)) 
+                 print("%s [%s•%s] %sVERSION   : %s1"%
+                 print("%s [%s•%s] %sYOUR KEY  : %s%s"%
+                 print("%s [%s•%s] %sSTATUS    : %s"%/MrKhan/ 
                  print("───────────────────────────────────────────────────────× ") 
-                 print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m Minhazul\x1b[0m\x1b[1;97m] \033[1;37m ") 
+                 print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m Mr Khan\x1b[0m\x1b[1;97m] \033[1;37m ") 
                  subprocess.check_output(["am", "start", "https://chat.whatsapp.com/ICLU1npbLZR8x61KyX5fUR"]) 
                  print("───────────────────────────────────────────────────────× ") 
-                 print("%s [%s1%s]%s CRACK RANDOM FB ID 2009-11 {JUST NOW} %s(Free Trail)"%(G,R,G,Y,B)) 
-                 tanya = input("    \033[0;97m(=×>)\033[0;97m CHOOSE : ") 
+                 print("%s [%s1%s]%s CRACK BD RANDOM,)
+                 tanya = input("    \033[0;97m(+)\033[0;97m CHOOSE : ") 
                  print("───────────────────────────────────────────────────────× ") 
                  if tanya in ["", " "]: 
                          Main() 
