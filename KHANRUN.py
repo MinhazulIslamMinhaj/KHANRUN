@@ -137,7 +137,7 @@ class Main:
  \t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : Minhaj Khan] 
  ───────────────────────────────────────────────────────×  
      """) 
-                 print("%s [%s•%s] %sTOOL NAME : %sFB ID CLONING"%)) 
+                 print("%s [%s•%s] %sTOOL NAME : %sFB ID CLONING"%
                  print("%s [%s•%s] %sVERSION   : %s1"%
                  print("%s [%s•%s] %sYOUR KEY  : %s%s"%
                  print("%s [%s•%s] %sSTATUS    : %s"%/MrKhan/ 
