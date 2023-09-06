@@ -138,7 +138,7 @@ class Main:
  ───────────────────────────────────────────────────────×  
      """) 
                  print("%s [%s•%s] %sTOOL NAME : %sFB ID CLONING"%
-                 print("%s [%s•%s] %sVERSION   : %s6"%s
+                 print("%s [%s•%s] %sVERSION   : 
                  print("%s [%s•%s] %sYOUR KEY  : "%s
                  print("%s [%s•%s] %sSTATUS    : "%s
                  print("───────────────────────────────────────────────────────× ") 
